@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+void nanty0218()
+{
+	cout << "Hello World!" << endl;
+}
+int main()
+{
+	nanty0218();
+	return 0;
+}
